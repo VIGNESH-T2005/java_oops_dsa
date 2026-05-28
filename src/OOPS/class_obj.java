@@ -13,6 +13,7 @@ public class class_obj {
 		this.name=name;
 		this.age=age;
 	}
+	//methods 
 	public void details() {
 		System.out.println(name + " " + age );
 	}
