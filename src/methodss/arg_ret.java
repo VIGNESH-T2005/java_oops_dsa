@@ -1,6 +1,7 @@
-package OOPS;
+// with arguments and with return type
+package methodss;
 import java.util.*;
-public class methods {
+public class arg_ret {
 	public int additon(int a,int b) {
 		int c= a+b;
 		return c;
@@ -9,7 +10,7 @@ public class methods {
 		Scanner sc=new Scanner (System.in);
 		int a=sc.nextInt();
 		int b=sc.nextInt();
-		methods obj = new methods();
+		arg_ret obj = new arg_ret();
 		int c = obj.additon(a, b);	
 		System.out.println(c);
 	}
