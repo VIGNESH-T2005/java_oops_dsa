@@ -1,6 +1,7 @@
 // Class and Objects 
 
 package OOPS;
+
 import java.util.*;
 public class class_obj {
 	//attribute
@@ -27,5 +28,4 @@ public class class_obj {
 		System.out.println(objname.srno +" " +  objname.name + " " +objname.age);
 		objname.details();
 	}
-
 }

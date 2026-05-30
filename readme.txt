@@ -51,15 +51,35 @@ constructors initialize using this keyword
 methods:
    methods/functions are the block of code that perform the specific tasks. this is behaviour/actions of of the object
 and made the code reusable.
-
+every method has separate stack memory 
 types of methods        
        * with argument with return type 
        * with argument without return type
        * without argument with return type
        * without argument without return type
 ----------------------------------------------------------------------------------------------------------
-       
-       
+OOPs in java:
+   object oriented programming system is organising software that is based on object rather than function and loops.
+object is  self contained unit that has attributes and methods
+
+Four pillars of oops:
+      * Encapsulation
+      * Abstraction
+      * Inheritance
+      * Polymorphism
+ 
+---------------------------------------------------------------------------------------------------------     
+Encapsulation: 
+   Its the process that involves wrapping the data attributes and methods all together in single class and restricting
+direct access to the data variable from outside is called Encapsulation.
+class demo{
+   dataattributes;
+   methods(){}
+   main method{}
+   }
+-----------------------------------------------------------------------------------------------------------------
+Abstraction:
+          
        
        
        
