@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.abstraction;
 
 abstract class vehicle{
 	
@@ -18,10 +18,12 @@ void model() {
 }
 
 
-public class abstraction {
+public class abstract_class{
 	public static void main(String[] args) {
-	car obj=new car();
+	vehicle obj=new car();
 	obj.model();
+	vehicle obj2=new bike();
+	obj2.model();
 	}
 
 }	
