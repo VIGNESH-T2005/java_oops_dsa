@@ -79,8 +79,19 @@ class demo{
    }
 -----------------------------------------------------------------------------------------------------------------
 Abstraction:
-          
-       
+  its the process of hiding the implementation process but it shows what work is done 
+  
+  two types of abstraction
+     *absract class 
+     *interface 
+     
+   abstract class : this is used by using abstract keyword before class and this cannot create object (instantiated) 
+             *cannot be instantiated (cannot create obj with abstract class)
+             *can have abstract methods no concrete
+             *can have methods with body
+             
+              
+ 
        
        
        

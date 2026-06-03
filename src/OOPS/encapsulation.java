@@ -4,6 +4,7 @@ public class encapsulation {
 	private int age;
 	
 	public int getAge() {
+		
 		return age;
 	}
 	public void setAge(int num) {
