@@ -16,7 +16,6 @@ public class overloading {
 		vehicle obj=new vehicle();
 		obj.wheels();
 		obj.wheels(4);
-
 	}
 
 }
