@@ -17,9 +17,7 @@ public class overriding {
 		obj.eat();
 		dog obj2 = new dog();
 		obj2.eat();
-		
-		
-
 	}
 
 }
+
