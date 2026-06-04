@@ -24,7 +24,7 @@ public class inheritance {
 	public static void main(String[] args) {
 		book obj = new book(" focus on what matters");
 		obj.bookname();
-		book obj2= new child("ppa");
+		book obj2= new child("power of a positive attitude");
 		obj2.bookname();
 
 	}
