@@ -3,11 +3,9 @@ import java.util.*;
 public class Array_list {
 
 	public static void main(String[] args) {
-	  ArrayList<Integer> list = new ArrayList<>();
-	  list.add(3);
-	  list.add(4);
-	  list.add(3);
-	  System.out.println(list);
+	  ArrayList<Integer> list = new ArrayList<>(List.of(3,2,6,4,7,8));
+	  list.add(0);
+	 System.out.println(list);
 	  
 
 	}
