@@ -8,7 +8,9 @@ public class Array_list {
 	  list.add(4);
 	  list.add(3);
 	  System.out.println(list);
+	  
 
 	}
 
 }
+// ordered  , allow duplicates
